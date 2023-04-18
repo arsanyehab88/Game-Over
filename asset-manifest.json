@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/arsanyehab88/Game-Over.git/static/css/main.14b4948b.css",
-    "main.js": "/arsanyehab88/Game-Over.git/static/js/main.060128f8.js",
-    "static/media/fa-solid-900.ttf": "/arsanyehab88/Game-Over.git/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
-    "static/media/img2.png": "/arsanyehab88/Game-Over.git/static/media/img2.0fddd1fbe0a5e0a0af93.png",
-    "static/media/img1.jpg": "/arsanyehab88/Game-Over.git/static/media/img1.d5751ff804c935b205d3.jpg",
-    "static/media/fa-brands-400.ttf": "/arsanyehab88/Game-Over.git/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
-    "static/media/img1.png": "/arsanyehab88/Game-Over.git/static/media/img1.548dc5719c2345c22eef.png",
-    "static/media/fa-solid-900.woff2": "/arsanyehab88/Game-Over.git/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
-    "static/media/fa-brands-400.woff2": "/arsanyehab88/Game-Over.git/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
-    "static/media/fa-regular-400.ttf": "/arsanyehab88/Game-Over.git/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
-    "static/media/fa-regular-400.woff2": "/arsanyehab88/Game-Over.git/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
-    "static/media/fa-v4compatibility.ttf": "/arsanyehab88/Game-Over.git/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
-    "static/media/fa-v4compatibility.woff2": "/arsanyehab88/Game-Over.git/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
-    "index.html": "/arsanyehab88/Game-Over.git/index.html",
-    "main.14b4948b.css.map": "/arsanyehab88/Game-Over.git/static/css/main.14b4948b.css.map",
-    "main.060128f8.js.map": "/arsanyehab88/Game-Over.git/static/js/main.060128f8.js.map"
+    "main.css": "/Game-Over/static/css/main.1a138a10.css",
+    "main.js": "/Game-Over/static/js/main.ee4bcc65.js",
+    "static/media/fa-solid-900.ttf": "/Game-Over/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/img2.png": "/Game-Over/static/media/img2.0fddd1fbe0a5e0a0af93.png",
+    "static/media/img1.jpg": "/Game-Over/static/media/img1.d5751ff804c935b205d3.jpg",
+    "static/media/fa-brands-400.ttf": "/Game-Over/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/img1.png": "/Game-Over/static/media/img1.548dc5719c2345c22eef.png",
+    "static/media/fa-solid-900.woff2": "/Game-Over/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/Game-Over/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/Game-Over/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/Game-Over/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Game-Over/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Game-Over/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Game-Over/index.html",
+    "main.1a138a10.css.map": "/Game-Over/static/css/main.1a138a10.css.map",
+    "main.ee4bcc65.js.map": "/Game-Over/static/js/main.ee4bcc65.js.map"
   },
   "entrypoints": [
-    "static/css/main.14b4948b.css",
-    "static/js/main.060128f8.js"
+    "static/css/main.1a138a10.css",
+    "static/js/main.ee4bcc65.js"
   ]
 }
